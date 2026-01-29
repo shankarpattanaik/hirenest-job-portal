@@ -1,0 +1,30 @@
+.grid-background {
+  position: fixed;
+  inset: 0;
+  background-color: #0b0b0f;
+  background-image: radial-gradient(#0ff 1px, transparent 1px);
+  background-size: 30px 30px;
+  pointer-events: none;
+  z-index: -1;
+  animation: gridFloat 20s linear infinite;
+}
+
+.grid-background::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    circle,
+    rgba(0, 0, 0, 0) 40%,
+    rgba(0, 0, 0, 0.35) 100%
+  );
+}
+
+@keyframes gridFloat {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 60px 60px;
+  }
+}
