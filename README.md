@@ -7,37 +7,26 @@ HireNest is a modern **full‑stack job portal** that connects **candidates** an
 ## 📸 Screenshots
 
 ## 🔐 Authentication
-
 <p align="center">
   <img src="public/screenshots/login.png" alt="Login Page" width="600" />
 </p>
-
 ## 🏠 Landing Page
-
 <p align="center">
   <img src="public/screenshots/landing.png" alt="Landing Page" width="600" />
 </p>
-
-## Job Listings Page
-
+## 💼 Job Listings
 <p align="center">
   <img src="public/screenshots/jobs.png" alt="Job Listing Page" width="600" />
 </p>
-
-## View Job Details
-
+## 📄 Job Details
 <p align="center">
-  <img src="public/screenshots/viwejob.png" alt="View Job Details" width="600" />
+  <img src="public/screenshots/viewjob.png" alt="View Job Details" width="600" />
 </p>
-
-## Apply for Job
-
+## 📨 Apply for Job
 <p align="center">
   <img src="public/screenshots/apply.png" alt="Apply Job" width="600" />
 </p>
-
 ## 📢 Recruiter Dashboard
-
 <p align="center">
   <img src="public/screenshots/post.png" alt="Apply Job" width="600" />
 </p>
@@ -100,7 +89,7 @@ HireNest is a modern **full‑stack job portal** that connects **candidates** an
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hirenest.git
+git clone https://github.com/shankarpattanaik/hirenest-job-portal
 cd job-portal
 ```
 
@@ -187,7 +176,7 @@ This project is licensed under the **MIT License**.
 
 ## 🌐 Live Demo
 
->
+> https://hirenest-job-portal-dev.vercel.app/
 
 ---
 
