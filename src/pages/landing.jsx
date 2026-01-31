@@ -14,7 +14,7 @@ const LandingPage = () => {
     <main className="flex flex-col gap-10 sm:gap-20 pt-2 sm:pt-2 pb-10 sm:pb-20">
       <section className="text-center">
         <h1 className="font-extrabold text-4xl sm:text-6xl lg:text-8xl tracking-tighter py-4 gradient-title">
-          <span className="block mb-4 sm:mb-6">Your Dream Job Awaits Shankar</span>
+          <span className="block mb-4 sm:mb-6">Your Dream Job Awaits</span>
           <span className="block flex items-center justify-center gap-2 sm:gap-6">
             Get Hired with HireNest
           </span>
